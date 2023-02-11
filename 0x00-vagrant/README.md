@@ -1,1 +1,1 @@
-This readme is about vagrant
+Role of uname command in Ubuntu
